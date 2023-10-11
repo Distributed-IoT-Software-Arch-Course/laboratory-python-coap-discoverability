@@ -1,4 +1,4 @@
-# Python - Laboratory CoAP
+# Python - Laboratory CoAP Discoverability
 
 This project is associated to the CoAP Discoverability Laboratory in order to design and create a simple CoAP application emulating
 an IoT scenario where a CoAP client interacts with a CoAP Coffee Machine in order to:
